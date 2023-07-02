@@ -26,7 +26,7 @@ if &t_Co > 255
   hi Debug guifg=#ff87af ctermfg=211 cterm=bold gui=bold
   hi Define guifg=#bed6ff ctermfg=153
   hi Delimiter guifg=#949494 ctermfg=246
-  hi DiffAdd guifg=#a5c261 ctermfg=149
+  hi DiffAdd guifg=#a5c261 guibg=#353535 ctermfg=149 ctermbg=240
   hi DiffChange guifg=#bed6ff guibg=#353535 ctermfg=153 ctermbg=240
   hi DiffDelete guifg=#d25252 guibg=#353535 ctermfg=167 ctermbg=240
   hi DiffText guifg=#dcf4ff guibg=#5b5b5b ctermfg=195 ctermbg=240 cterm=bold gui=bold
