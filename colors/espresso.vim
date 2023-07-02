@@ -88,11 +88,11 @@ if &t_Co > 255
   hi NonText guifg=#d197d9 ctermfg=176
   hi SpecialKey guifg=#efb5f7 ctermfg=219
 
-  hi rainbowcol1 guifg=#d25252
-  hi rainbowcol2 guifg=#a5c261
-  hi rainbowcol3 guifg=#d197d9
-  hi rainbowcol4 guifg=#ffd75f
-  "hi rainbowcol5 guifg=#d25252
-  "hi rainbowcol6 guifg=#d25252
-  "hi rainbowcol7 guifg=#d25252
+  hi TSRainbowRed guifg=#d25252
+  hi TSRainbowGreen guifg=#a5c261
+  hi TSRainbowYellow guifg=#ffc66d
+  hi TSRainbowBlue guifg=#6c99bb
+  hi TSRainbowViolet guifg=#d197d9
+  hi TSRainbowCyan guifg=#bed6ff
+  hi TSRainbowOrange guifg=#eeeeec
 end
